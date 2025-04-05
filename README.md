@@ -4,7 +4,7 @@
 - `<leader>tdr` remove the most important item from the todo list.
 
 # Demonstration
-![Demo](nvim-todo-demo.mkv)
+![Demo](https://github.com/abhinav-jay/todo-manager.nvim/blob/main/nvim-todo-demo.mp4)
 
 # Installation
 Install with your favorite plugin manager, example with lazy.nvim:
