@@ -10,5 +10,10 @@ Install with your favorite plugin manager, example with lazy.nvim:
     "abhinav-jay/todo-manager.nvim",
 }
 ```
+Actually, I don't know if this really works. Anyway, you can do this if you want in a terminal.
+``` bash
+git clone https://github.com/abhinav-jay/todo-manager.nvim ~/.config/nvim/todo/
+echo 'require("todo").setup()' >> ~/.config/nvim/init lua
+```
 # Notes
 This plugin is very new, there may be some bugs. If there are any bugs, please report them in the issues section. 
